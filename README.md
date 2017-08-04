@@ -1,6 +1,6 @@
 # Eight Ball
 
-A impossible multiplayer game, if you is very fast, unfortunately you're not going to make it. . :kissing_cat:
+A impossible multiplayer game, if you is very fast, unfortunately you're not going to make it. :kissing_cat:
 
 ## The objective of the game
 
